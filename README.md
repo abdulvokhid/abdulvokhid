@@ -10,7 +10,7 @@
 
 I am a Platform Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
 
-- :telescope: I’m working as a Platform Engineer in Czech Republic, Prague. Writing script for automation and supports Qlik Application.
+- :telescope: I’m working as a Platform Engineer in Czech Republic, Prague. Writing script for automation and supporting Qlik Application.
 
 - :seedling: Currently learning iOS Developement.
 
@@ -41,5 +41,5 @@ I am a Platform Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulvokhid&show_icons=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&locale=en&count_private=true&hide=issues" alt="abdulvokhid" width="50%" /></p>
 
 <div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulvokhid" alt="abdulvokhid" /> </p>
- </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulvokhid" alt="abdulvokhid" width="50" height="50" /> </p>
+</div>
