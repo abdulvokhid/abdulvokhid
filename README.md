@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
+    <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdulvokhid&style=flat-square&color=blue" alt=""/>
   <a href="https://www.linkedin.com/in/abdulvokhid-azimov-1b18961a4/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=abdulvokhid&style=flat-square&color=blue" alt=""/>
+
