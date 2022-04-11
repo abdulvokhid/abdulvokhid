@@ -63,4 +63,4 @@ I am a Platform Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulvokhid&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulvokhid&theme=discord" alt="abdulvokhid" /></a></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulvokhid&theme=discord" alt="abdulvokhid" /></a> <a align="right" href="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulvokhid&layout=compact&theme=vision-friendly-dark"><img src="https://github.com/anuraghazra/github-readme-stats"></a></p>
