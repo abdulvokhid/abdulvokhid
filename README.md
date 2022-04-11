@@ -25,7 +25,7 @@ Here are some ideas to get you started:
         <img src="https://komarev.com/ghpvc/?username=abdulvokhid&style=flat-square&color=blue" alt=""/>
     </div>
     <h1>
-      hey there
+      Hey there I am Abdulvokhid
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
     <div>
@@ -66,4 +66,4 @@ I am a Platform Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulvokhid&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Status](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)]
+[![Status](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=chalk)]
