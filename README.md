@@ -36,3 +36,13 @@ Here are some ideas to get you started:
 ---
 
 ### :technologist: About Me :
+
+I am a Platform Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
+
+- :telescope: I’m working as a Platform Engineer and writing script for automation Qlik App.
+
+- :seedling: Currently learning iOS Developement.
+
+- :zap: In my free time, I love to watch YouTube.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdulvokhid-azimov-1b18961a4/)
