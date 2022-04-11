@@ -33,4 +33,5 @@ Here are some ideas to get you started:
     </div>
 </div>
 ---
-### :man_technologist: About Me :
+
+### :technologist: About Me :
