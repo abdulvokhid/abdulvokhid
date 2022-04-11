@@ -35,7 +35,11 @@ I am a Platform Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdulvokhid&theme=blue-green&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulvokhid&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulvokhid&show_icons=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&locale=en&layout=compact&count-private=true" alt="abdulvokhid" /></p>
+
 <p>&nbsp;
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulvokhid&show_icons=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&locale=en&count_private=true&hide=issues" alt="bilgecakar" width="50%" />
-</p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulvokhid&show_icons=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&locale=en&count_private=true&hide=issues" alt="abdulvokhid" width="50%" /></p>
+
+<div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulvokhid" alt="abdulvokhid" /> </p>
+ </div>
