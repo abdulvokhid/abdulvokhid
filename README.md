@@ -1,5 +1,5 @@
 <h1 align="center">
-   Hey there I am Abdulvokhid
+   Hi,I am Abdulvokhid
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulvokhid&theme=discord" alt="abdulvokhid" /></a> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> </p>
