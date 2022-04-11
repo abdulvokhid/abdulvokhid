@@ -66,4 +66,4 @@ I am a Platform Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulvokhid&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub
+[![Status](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)]
