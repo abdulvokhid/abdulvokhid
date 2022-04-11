@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 I am a Platform Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
 
-- :telescope: I’m working as a Platform Engineer and writing script for automation Qlik App.
+- :telescope: I’m working as a Platform Engineer in Czech Republic, Prague. Writing script for automation and supports Qlik Application.
 
 - :seedling: Currently learning iOS Developement.
 
