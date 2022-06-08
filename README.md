@@ -8,9 +8,9 @@
 
 ### :technologist: About Me :
 
-I am a Platform Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
+I am a Apps Release Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
 
-- :telescope: I’m working as a Platform Engineer in Czech Republic, Prague. Writing script for automation and supporting Qlik Application.
+- :telescope: I’m working as a Apps Release Engineer in Czech Republic, Prague. Deploying apps, writing automation scripts and working closely with QA and Scrum teams.
 
 - :seedling: Currently learning iOS Developement.
 
